@@ -1,0 +1,25 @@
+{
+  "name": "cryptoxscanner.com-telegrambot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ac2f/cryptoxscanner.com-telegrambot.git"
+  },
+  "author": "ac2f",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ac2f/cryptoxscanner.com-telegrambot/issues"
+  },
+  "homepage": "https://github.com/ac2f/cryptoxscanner.com-telegrambot#readme",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "node-telegram-bot-api": "^0.58.0",
+    "pm2": "^5.2.0",
+    "ws": "^8.8.0"
+  }
+}
